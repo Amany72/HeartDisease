@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/doctor-login",
+    "/DoctorRegistration",
+    "/landing",
+    "/patient-login",
+    "/PatientRegistration"
+  ]
+}
